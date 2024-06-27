@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Panta Ilish",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co/9Zc2d26/Panta-Ilish.jpg",
+        "rating": 4.5,
+        "price": 850
+    },
+    {
+        "id": 2,
+        "title": "Panta Bhat",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co/5LKbb37/Luchi-with-Alur-Dom.jpg",
+        "rating": 4.3,
+        "price": 600
+    },
+    {
+        "id": 3,
+        "title": "Luchi with Alur Dom",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co/5LKbb37/Luchi-with-Alur-Dom.jpg",
+        "rating": 4.8,
+        "price": 700
+    },
+    {
+        "id": 4,
+        "title": "Bhuna Khichuri",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co/kQ2ZmGJ/Bhuna-Khichuri.jpg",
+        "rating": 4.6,
+        "price": 750
+    },
+    {
+        "id": 5,
+        "title": "Mishti Doi",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co/b3fZLYG/Mishti-Doi.webp",
+        "rating": 4.8,
+        "price": 350
+    },
+    {
+        "id": 6,
+        "title": "Biryani",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/yQzskH9/birani.jpg",
+        "rating": 4.8,
+        "price": 950
+    },
+    {
+        "id": 7,
+        "title": "Hilsa Fish Curry",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/nPkv8K5/Hilsa-Fish-Curry.webp",
+        "rating": 4.7,
+        "price": 1150
+    },
+    {
+        "id": 8,
+        "title": "Kacchi Biryani",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/yhKPsRG/Kacchi-Biryani.jpg",
+        "rating": 4.9,
+        "price": 1000
+    },
+    {
+        "id": 9,
+        "title": "Rui Macher Kalia",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/1KRFN2p/Rui-Macher-Kalia.jpg",
+        "rating": 4.7,
+        "price": 900
+    },
+    {
+        "id": 10,
+        "title": "Beef Bhuna",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/1nzF9Lj/Beef-Bhuna.webp",
+        "rating": 4.8,
+        "price": 1000
+    },
+    {
+        "id": 11,
+        "title": "Chingri Malai Curry",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/PZ4VxLV/Chingri-Malai-Curry.webp",
+        "rating": 4.7,
+        "price": 1200
+    },
+    {
+        "id": 12,
+        "title": "Prawn Bhuna",
+        "category": "Lunch",
+        "image": "https://i.ibb.co/PspZ9QP/Prawn-Bhuna.jpg",
+        "rating": 4.6,
+        "price": 1000
+    },
+    {
+        "id": 13,
+        "title": "Shorshe Ilish",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/HP83tD5/Shorshe-Ilish.jpg",
+        "rating": 4.9,
+        "price": 1300
+    },
+    {
+        "id": 14,
+        "title": "Naan with Chicken Bhuna",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/P9DqGGg/Naan-with-Chicken-Bhuna.jpg",
+        "rating": 4.6,
+        "price": 850
+    },
+    {
+        "id": 15,
+        "title": "Roshogolla",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/Sn4tcnW/Roshogolla.jpg",
+        "rating": 4.9,
+        "price": 400
+    },
+    {
+        "id": 16,
+        "title": "Sandesh",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/7NYpCt8/Sandesh.webp",
+        "rating": 4.7,
+        "price": 450
+    },
+    {
+        "id": 17,
+        "title": "Mutton Tehari",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/TTmSjm6/Mutton-Tehari.jpg",
+        "rating": 4.8,
+        "price": 1100
+    },
+    {
+        "id": 18,
+        "title": "Patla Khichuri",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/LkMBGqG/Patla-Khichuri.jpg",
+        "rating": 4.5,
+        "price": 650
+    },
+    {
+        "id": 19,
+        "title": "Sorshe Chingri",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/J7sGn5Z/Sorshe-Chingri.jpg",
+        "rating": 4.8,
+        "price": 1000
+    },
+    {
+        "id": 20,
+        "title": "Fuchka",
+        "category": "Dinner",
+        "image": "https://i.ibb.co/ccYn14N/Fuchka.webp",
+        "rating": 4.9,
+        "price": 550
+    }
+]
